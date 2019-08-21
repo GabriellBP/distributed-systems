@@ -10,7 +10,7 @@
 
 All the needed Packages are installed in the jupyter notebooks, maybe you have to install the package "LanguageServer", to make this, open the Julia REPL and use the commands:
 ```julia
-using Pkg`
+using Pkg
 Pkg.add("LanguageServer")
 ```
 A git guide: [Git Guide (Portuguese)](https://rogerdudler.github.io/git-guide/index.pt_BR.html "Git Guide")
